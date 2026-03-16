@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/timungmac/Documents/flutter3290/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/timungmac/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/timungmac/Documents/Fiverr/webmaniac/Madame Est Servie/eMart_store/android/app/.cxx/Debug/4o45u5u1/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/timungmac/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/timungmac/Documents/Fiverr/webmaniac/Madame Est Servie/eMart_store/android/app/.cxx/Debug/4o45u5u1/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

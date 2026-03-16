@@ -1,0 +1,2 @@
+/Users/mayankmodi/Documents/Project/github/eMart/eMart_driver/android/app/.cxx/RelWithDebInfo/iw4p6g4o/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mayankmodi/Documents/Project/github/eMart/eMart_driver/android/app/.cxx/RelWithDebInfo/iw4p6g4o/arm64-v8a/CMakeFiles/rebuild_cache.dir

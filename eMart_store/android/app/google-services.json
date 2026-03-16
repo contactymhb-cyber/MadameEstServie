@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "472727758354",
+    "firebase_url": "https://madameestservie-90acd-default-rtdb.firebaseio.com",
+    "project_id": "madameestservie-90acd",
+    "storage_bucket": "madameestservie-90acd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472727758354:android:bc986fcbbe7116833c1acb",
+        "android_client_info": {
+          "package_name": "com.madame.estservie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472727758354-25ebvm6ni39eo3ofo7tok0udkgvoiont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPMKfqtjWcdcXOtsSj87MtZywmiET11A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472727758354-25ebvm6ni39eo3ofo7tok0udkgvoiont.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472727758354-1u961uhlj47h8a3sciohio1qfm8tmie3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madameestservie.drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472727758354:android:d8839bc82030b4493c1acb",
+        "android_client_info": {
+          "package_name": "com.madameestservie.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472727758354-25ebvm6ni39eo3ofo7tok0udkgvoiont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPMKfqtjWcdcXOtsSj87MtZywmiET11A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472727758354-25ebvm6ni39eo3ofo7tok0udkgvoiont.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472727758354-1u961uhlj47h8a3sciohio1qfm8tmie3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madameestservie.drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472727758354:android:decfbf88d1ed3be13c1acb",
+        "android_client_info": {
+          "package_name": "com.madameestservie.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472727758354-25ebvm6ni39eo3ofo7tok0udkgvoiont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPMKfqtjWcdcXOtsSj87MtZywmiET11A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472727758354-25ebvm6ni39eo3ofo7tok0udkgvoiont.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472727758354-1u961uhlj47h8a3sciohio1qfm8tmie3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madameestservie.drive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

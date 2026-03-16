@@ -1,0 +1,2 @@
+/Users/rushabhpatel/Documents/Latest_Emart/eMart/eMart_store/android/app/.cxx/RelWithDebInfo/6c6a6c1t/x86/CMakeFiles/edit_cache.dir
+/Users/rushabhpatel/Documents/Latest_Emart/eMart/eMart_store/android/app/.cxx/RelWithDebInfo/6c6a6c1t/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/Users/timungmac/Documents/Fiverr/webmaniac/Madame Est Servie/eMart_store/android/app/.cxx/Debug/4o45u5u1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/timungmac/Documents/Fiverr/webmaniac/Madame Est Servie/eMart_store/android/app/.cxx/Debug/4o45u5u1/armeabi-v7a/CMakeFiles/rebuild_cache.dir

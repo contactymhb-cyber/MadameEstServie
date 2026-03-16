@@ -1,0 +1,2 @@
+/Users/rushabhpatel/Documents/GitHub/eMart/eMart_store/android/app/.cxx/RelWithDebInfo/10334z4c/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/rushabhpatel/Documents/GitHub/eMart/eMart_store/android/app/.cxx/RelWithDebInfo/10334z4c/armeabi-v7a/CMakeFiles/rebuild_cache.dir

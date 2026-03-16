@@ -1,0 +1,2 @@
+/Users/rushabhpatel/Documents/GitHub/eMart/eMart_driver/android/app/.cxx/RelWithDebInfo/4y6b4o43/x86/CMakeFiles/edit_cache.dir
+/Users/rushabhpatel/Documents/GitHub/eMart/eMart_driver/android/app/.cxx/RelWithDebInfo/4y6b4o43/x86/CMakeFiles/rebuild_cache.dir
